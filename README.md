@@ -1,5 +1,4 @@
 # Credit Card Service
-- Author - Sharmila Kale
 - Description - This service process credit card transactions and display the transactions.
 - Design considerations - Spring boot and Java 8 has been used to write this application. Spring boot makes it easy to
  quickly write the production ready applications. Also another reason is it can be extended into a restful api which
